@@ -14,8 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-
-
 </div>
 
 ## Manual QA:
@@ -27,18 +25,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 </div>
 
-
 ## Certificates:
 <div>
-<img src="https://drive.google.com/drive/folders/1fU2r2VMbxoVg7eT_0kxf5Y-201KdsGWa" title="Jira" alt="Jira" width="400" height="400"/>&nbsp;
-  </div>
-
-  
-<a href="https://drive.google.com/file/d/1a1LGcoSlQffGsGfZHdtYirJvGJhOttQR/view?usp=sharing" target="_blank">
-<img src="https://drive.google.com/file/d/1a1LGcoSlQffGsGfZHdtYirJvGJhOttQR/view?usp=sharing" alt="terminal" style="width:275px; height:170px" />
-</a>   
+<img src="https://github.com/IrinaDKuz/IrinaDKuz/blob/main/Irina%20Kuznetsova_Terminal.png" title="Terminal" alt="Terminal" width="600px" height="400px"/>&nbsp;
+  <img src="https://github.com/IrinaDKuz/IrinaDKuz/blob/main/Irina%20Kuznetsova_Git.png" title="Git" alt="Git" width="600px" height="400px"/>&nbsp;
+  <img src="https://github.com/IrinaDKuz/IrinaDKuz/blob/main/Irina%20Kuznetsova_SQL.png" title="SQL" alt="SQL" width="600px" height="400px"/>&nbsp;
+  <img src="https://github.com/IrinaDKuz/IrinaDKuz/blob/main/Irina%20Kuznetsova_Postman.png" title="Postman" alt="Postman" width="600px" height="400px"/>&nbsp;
 </div>
 
-
 <img src="https://komarev.com/ghpvc/?username=IrinaDKuz&style=flat-square&color=blue" alt=""/>
-
